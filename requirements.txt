@@ -1,0 +1,17 @@
+# EasyOCR
+easyocr
+torch
+torchvision
+torchaudio
+
+# Image and PDF
+pdf2image
+pillow
+pymupdf
+numpy
+
+# Documents
+python-docx
+
+#
+pytesseract
