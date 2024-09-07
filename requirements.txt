@@ -4,6 +4,9 @@ torch
 torchvision
 torchaudio
 
+# Tesseract
+pytesseract
+
 # Image and PDF
 pdf2image
 pillow
@@ -12,6 +15,3 @@ numpy
 
 # Documents
 python-docx
-
-#
-pytesseract

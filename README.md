@@ -1,5 +1,8 @@
 # Traducir PDF que tienen imágenes
 
+Crear el enviroment:
+```python3 -m venv translate-env```
+
 Levantar el enviroment:
 ```source translate-env/bin/activate```
 
